@@ -91,8 +91,8 @@ It can be switched freely based on annotations.
 ```
 @misc{
 title={An Efficient Transformer with Atrous Residual Learning for Medical Images},
-author={ART Authors},
-booktitle={IEEE International Conference on Multimedia and Expo 2023n (ICME)},
+author={Yue He, Yufan Wang, Linlong He, Guangyao Pan, He Ma*},
+booktitle={IEEE International Conference on Multimedia and Expo 2023 (ICME)},
 year={2023}
 }
 ```
