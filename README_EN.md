@@ -89,7 +89,7 @@ It can be switched freely based on annotations.
 ## Citation ART
 
 ```
-@misc{ppdet2019,
+@misc{
 title={An Efficient Transformer with Atrous Residual Learning for Medical Images},
 author={ART Authors},
 booktitle={IEEE International Conference on Multimedia and Expo 2023n (ICME)},
